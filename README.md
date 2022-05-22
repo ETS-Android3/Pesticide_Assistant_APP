@@ -6,7 +6,7 @@ It's a  project for detecting the pesticide name from the bottle photo taken by 
 
 1) In this project we have developed an android application that is capable of taking a photo of real objects and performs the following procedure.
 
-2) After capturing of image the it is passed to the Machine learning model. Here we have used the classification problem to make a ML model.
+2) After capturing of image the it is passed to the Machine learning model. Here we have used the classification problem to make a ML model.The dataset for the ML model contains three classes of pesticides each having 1800 images taken by android phone camera.
 
 3) The output from the ML model is feed to the next activity of android app for choosing from the available crops.
 
