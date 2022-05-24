@@ -10,7 +10,7 @@ It's a  project for detecting the pesticide name from the bottle photo taken by 
 
 3) The output from the ML model is feed to the next activity of android app for choosing from the available crops.
 
-4) After choosen crops on the last activity with the help of customized progress bars we have shown the concetration of water and pesticide side-by-side.
+4) After choosen crops on the last activity with the help of customized progress bars we have shown the concentration of water and pesticide side-by-side.
 
 5) Here our app process ends and user can go back rechoose the crop to another result.
 
